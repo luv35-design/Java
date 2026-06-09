@@ -1,0 +1,6 @@
+{
+  "name": "Java Digital Diary Workspace",
+  "description": "An interactive environment featuring a full Java & MySQL digital diary source viewer, a live interactive simulation of the Swing application, and step-by-step setup walkthroughs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
